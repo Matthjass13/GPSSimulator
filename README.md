@@ -2,6 +2,7 @@
 ## Project Description
 The goal of this project is to model a real-time GPS navigation system that maximizes traffic control in contemporary cities. In a graph structure, the system depicts intersections as nodes and roads as edges. Admin users can modify travel times according to actual traffic conditions, like congestion or road closures, and users can use Dijkstra's algorithm to determine the shortest path between two points.
 For improved scalability and maintainability, the system is constructed using SOLID principles. Multiple users can connect at once, send path requests, and get real-time updates thanks to its client-server architecture. The server keeps the most up-to-date and accurate road network while processing user inputs.
+
 <img width="538" height="274" alt="Image1" src="https://github.com/user-attachments/assets/dc1611c7-3f23-4911-aa9b-5ebd9a3305fa" />
 <img width="345" height="308" alt="Image2" src="https://github.com/user-attachments/assets/cb446045-f7fd-4c95-9d0f-68fd63f782f9" />
 
